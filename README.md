@@ -10,12 +10,6 @@ This repository provides official example workflows for **pytRIBS**, the Python 
 
 This repository is designed to be a companion to the [pytRIBS package](https://github.com/tRIBS-Model/pytRIBS) and the [tRIBS model source code](https://github.com/tRIBS-Model/tRIBS).
 
-## ⚠️ Important Note Regarding Data Access
-
-> **Update (November 2025):** The NASA "Hydrology Data Rods" service, originally used by this workflow to dynamically download NLDAS forcing data using the pynldas2 package, has been decommissioned.
->
-> To ensure this example remains fully reproducible without breaking dependencies, **we have provided pre-downloaded static forcing data** within the repository. The notebook has been updated to load these local files automatically, bypassing the deprecated API calls.
-
 ## Available Workflows
 
 This repository currently contains the following tutorial workflows:
