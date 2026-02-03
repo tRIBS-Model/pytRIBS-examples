@@ -6,3 +6,4 @@ __pycache__/
 venv/
 /newman_demo/data/*
 /newman_demo/results/*
+/newman_demo/*.in
