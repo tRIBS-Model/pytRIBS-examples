@@ -7,3 +7,4 @@ venv/
 /newman_demo/data/*
 /newman_demo/results/*
 /newman_demo/*.in
+/newman_demo/restart/*
