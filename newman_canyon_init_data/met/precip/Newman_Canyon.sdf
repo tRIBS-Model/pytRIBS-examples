@@ -1,2 +1,2 @@
-1 7
-1 data/model/met/precip/precip_Newman_Canyon_1.mdf 3874066.0658549257 450152.93337637244 17592 5 2219.665795807008
+ID,DataFile,Northing,Easting,Elevation
+1,data/model/met/precip/precip_NLDAS_2019-2021.mdf,3874083.0598472995,450185.58463803766,2160.458984375
