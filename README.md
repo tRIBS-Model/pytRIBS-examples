@@ -8,7 +8,8 @@ This repository provides official example workflows for **pytRIBS**, the Python 
 2.  **Reproduce results** associated with the official pytRIBS publication.
 3.  **Access template scripts** that can be adapted for setting up new basins.
 
-This repository is designed to be a companion to the [pytRIBS package](https://github.com/tRIBS-Model/pytRIBS) and the [tRIBS model source code](https://github.com/tRIBS-Model/tRIBS).
+> [!IMPORTANT]
+> This repository is designed to be a companion to the [pytRIBS package](https://github.com/tRIBS-Model/pytRIBS) and the [tRIBS model source code](https://github.com/tRIBS-Model/tRIBS), > v1.0.0 and v6.0.0 respectively.
 
 ## Available Workflows
 
