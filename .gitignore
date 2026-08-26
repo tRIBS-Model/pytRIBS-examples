@@ -4,6 +4,7 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 venv/
-/newman_demo/data/*
-/newman_demo/results/*
-/newman_demo/*.in
+/newman-canyon/newman_demo/data/*
+/newman-canyon/newman_demo/results/*
+/newman-canyon/newman_demo/*.in
+/newman-canyon/newman_demo/restart/*
